@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- ejemplo2.xml  SUCARNET -->
+<pais nombre="El Salvador">
+<moneda>el dolar</moneda>
+<idioma>español</idioma>
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre="Cuscatlan">
+<cabecera>Suchitoto</cabecera>
+<habitantes>232,000</habitantes>
+<territorio>756.2 km^2</territorio>
+</departamento>
+</pais>
